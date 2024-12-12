@@ -1,0 +1,12 @@
+backend/node_modules
+backend/config/.env
+backend/uploads
+
+
+frontend/node_modules
+
+
+socket/node_modules
+socket/.env
+
+/.vscode
